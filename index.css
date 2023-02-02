@@ -1,0 +1,118 @@
+#nav1{ 
+    background-color: #E5EBF1;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 57px;
+}
+#imglogo{
+    height: 60%;
+}
+#imgargprog{
+    height: 70%;
+    position: relative;
+    left: -35px;
+}
+#imggmail{
+    height: 35%;
+    position: relative;
+    top: 5px;
+    left: 50px;
+}
+#imglinkedin{
+    height: 40%;
+    position: relative;
+    top: 4px;
+    left: 40px;
+}
+#botonentrar{
+    background-color: #788BBD;
+    border-color: #788BBD;
+    width: 140%;
+    position: relative;
+    left: 40px;
+}
+#imgbanner{
+    height: 350px;
+}
+#imguser{
+    width: 180px;
+    height: 180px;
+    position: relative;
+    left: 80px;
+    bottom: 60px;
+}
+#firstcard{
+    padding: 10px;
+    margin-top: 10px;
+    height: 600px;
+}
+#cardtitle, #cardtext{
+    width: 900px;
+    position: relative;
+    left: 400px;
+    bottom: 120px;
+}
+#username{
+    text-align: center;
+    width: 200px;
+    position: relative;
+    left: 55px;
+    bottom: 190px;
+}
+#imgexp1{
+    margin: 10px;
+    height: 200px;
+
+}
+#logoexp{
+    width: 100px;
+    position: relative;
+    top: 4px;
+}
+#expcard{
+    padding-top: 35px;
+    padding-bottom: 35px;
+
+}
+/*no me dejó agregar los espacios entre cartas
+#expercards{
+    margin-bottom: 200px;
+}*/
+
+#progcircle{
+    height: 70%;
+}
+#percent{
+    position: relative;
+    bottom: 125px;
+}
+#progbar0{
+    background-color: #B9C4E0;
+    height: 80%;
+}
+#progbar1{
+    background-color: #788BBD;
+}
+#progbar2{
+    position: relative;
+    z-index: 3;
+    font-size: 2em;
+    top: 5px;
+    left: 10px;
+}
+#lang{
+    position: relative;
+    top: 5px;
+    font-size: large;
+}
+#botonver{
+    background-color: #788BBD;
+    border-color: #788BBD;
+    width: 150px;
+}
+#foot{
+    background-color: #B9C4E0;
+    color: #ffffff;
+    padding-right: 20px;
+    height: 30px;
+}
